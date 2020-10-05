@@ -21,3 +21,16 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+  
+*.db
+/target
+/bin
+/Java_Fundamentals/target
+/Java_Fundamentals/.idea
+/Java_Fundamentals/Java_Fundamentals.iml
+/Java_Classes/.idea
+/Java_Classes/out
+/Java_Classes/Java_Classes.iml
+/Java_IO/.idea
+/Java_IO/out
+/Java_IO/Java_IO.iml
